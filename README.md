@@ -9,7 +9,7 @@ show:
 
 code:
 
-```Qt
+```cpp
     Q_D(DownloadManager);
     if (d->downloadQueue.isEmpty()) {
         emit finished();
