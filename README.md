@@ -5,4 +5,4 @@ English：It is an example which Breakpoint Resume Download in Qt
 
 show:
 
-![image](https://github.com/imtoby/QtBreakpointResumeExample/blob/master/QtBreakpointResumeExample/media/79c6i-7vpkb.gif=300x250)
+![image](https://github.com/imtoby/QtBreakpointResumeExample/blob/master/QtBreakpointResumeExample/media/79c6i-7vpkb.gif)
