@@ -9,8 +9,8 @@ show:
 
 code:
 
-```qt
-Q_D(DownloadManager);
+```Qt
+    Q_D(DownloadManager);
     if (d->downloadQueue.isEmpty()) {
         emit finished();
         return;
